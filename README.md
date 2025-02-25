@@ -14,8 +14,10 @@ I’m a **Computer Science graduate** passionate about **software development, m
 - **Machine Learning:** NumPy, Pandas, Matplotlib, Scikit-learn  
 - **Tools & Platforms:** GitHub, Docker, Linux, Jira  
 
----
 <!-- a normal html comment
+
+---
+
 ## 📌 Featured Projects  
 🔹 **[Capstone Project – Full Stack Web App](https://github.com/your-capstone-repo)**  
 A React + Electron.js app using SQLite, built for [client/company]. Worked on database design and IPC communication.  
